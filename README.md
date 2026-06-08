@@ -72,5 +72,3 @@ Na última parte do notebook, fazemos as mesmas perguntas utilizando uma abordag
 | **Definição factual** | Depende do *training cutoff* da IA | Ancorado em fonte da verdade | **Tool-use** |
 | **Conversa aberta** | Natural, fluida e imediata | *Overhead* desnecessário | **Pure-prompt** |
 
----
-*Este material faz parte do módulo prático de Desenvolvimento de Software com IA Generativa.*
